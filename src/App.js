@@ -30,7 +30,7 @@ const App = () => {
           makes it available to your React components.
         </p>
 
-        <div className="main-content" onClick={() => setTextToCopy(transcript)}>
+        <div className="main-content"  onClick={() => setTextToCopy(transcript)}>
           {transcript}
         </div>
 
