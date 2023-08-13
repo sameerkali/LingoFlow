@@ -53,9 +53,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Technologys
 * react18
-* typescript
-* chackra-ui
-* https://rawg.io/ `for game DB api`
+* javaScript
 * vite
 ---
 make with ~~lust~~ love 💖 by @sameerkali
