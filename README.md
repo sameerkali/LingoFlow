@@ -1,5 +1,5 @@
 
-# [LingoFlow](https://indie-gems-portal.vercel.app/) : Speak & Transcribe 🎙️
+# [LingoFlow](https://lingo-flow.vercel.app/) : Speak & Transcribe 🎙️
 🎙️ ReaccuVoice: Speak &amp; Transcribe 🚀 Turn speech into text effortlessly with React 18 magic! Real-time conversion, multiple languages, and data security combined. Maximize productivity, creativity, and accessibility. Embrace the future of communication today! 🗣️📝🌟 #ReaccuVoice
 
 ## App looks like 
