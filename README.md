@@ -3,7 +3,7 @@
 🎙️ ReaccuVoice: Speak &amp; Transcribe 🚀 Turn speech into text effortlessly with React 18 magic! Real-time conversion, multiple languages, and data security combined. Maximize productivity, creativity, and accessibility. Embrace the future of communication today! 🗣️📝🌟 #ReaccuVoice
 
 ## App looks like 
-![Paste screenshots path here](src/assets/git_reference/big_screen/catogory_searching.png)
+![Paste screenshots path here](public/screenshots/speech-to-text.png)
 
 ## Key Features 🌟
 
